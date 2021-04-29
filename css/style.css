@@ -1,0 +1,42 @@
+#contact {
+  text-align: center;
+  background-color: #463E46;
+  font-family: Arial;
+  color: #D1E6EF;
+  box-shadow: 5px 5px 5px grey;
+}
+
+#contact img {
+  border-radius: 50%;
+  height: 250px;
+}
+
+h4 {
+	margin-left: 20px;
+	font-family: Arial;
+	font-size: 25px;
+}
+
+p {
+	font-family: Arial;
+	line-height: 25px;
+	padding: 0px 10px 0px 10px;
+	margin-left: 25px;
+}
+
+li {
+	font-family: Arial;
+	font-size: 22px;
+	line-height: 25px;
+	padding: 0px 10px 0px 10px;
+	margin-left: 20px;	
+}
+
+.details {
+	color: #463E46;
+	font-size: 18px;
+	margin-top: 20px;
+	background-color: #D1E6EF;
+	box-shadow: 5px 5px 5px grey;
+}
+
