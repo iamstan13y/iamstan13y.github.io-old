@@ -40,3 +40,26 @@ li {
 	box-shadow: 5px 5px 5px grey;
 }
 
+button {
+  margin: auto;
+  background-color: #463E46;
+  color:#D1E6EF;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+ button a {
+	color:#D1E6EF;
+ }
+#dwnld {
+	text-align:center;
+}
+button:hover {
+  background-color:#D1E6EF;
+  color: #463E46;
+
+}
+
+button:hover a {
+	color: #463E46;
+}
